@@ -1,0 +1,19 @@
+{
+  "name": "facebook-copy",
+  "version": "1.0.0",
+  "description": "this is a copy page of facebook ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-pohahau5/Facebook-Copy.git"
+  },
+  "author": "Jonathan Pohahau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-pohahau5/Facebook-Copy/issues"
+  },
+  "homepage": "https://github.com/j-pohahau5/Facebook-Copy#readme"
+}
